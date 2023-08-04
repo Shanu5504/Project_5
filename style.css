@@ -1,0 +1,367 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+/* navbar section */
+#nav_logo{
+    padding-top: 39px;
+    padding-left: 62px;
+}
+.nav-link{
+    font-size: 25px;
+    color: #ffffff!important;
+    padding-top: 52px;
+}
+#nav_padding1{
+    padding-top: 52px;
+    padding-right: 69px;
+}
+#nav_padding2{
+    padding-top: 52px;
+    padding-right: 69px;
+}
+#nav_padding3{
+    padding-top: 52px;
+    padding-right: 46px;
+}
+#nav_padding3{
+    padding-top: 52px;
+    padding-right: 56px;
+}
+#nav_padding4{
+    padding-top: 52px;
+    padding-right: 69px;
+}
+#nav_padding5{
+    padding-top: 52px;
+    padding-right: 79px;
+}
+#nav_search_logo{
+    padding-top: 56px;
+    padding-right: 55px;
+}
+/* banner section */
+#banner{
+    background-image: url(background\ img.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 800px;
+    background-position-x: 100%,80%,60%;
+    background-position-y: 100%,30%,40%;
+}
+#banner_container{
+    height: 800px;
+    background-image: url(bg1.png),url(bg2.png),url(bg3.png),url(bg4.png),url(bg5.png),url(bg6.png),url(bg7.png),url(bg8.png),url(bg9.png);
+    background-repeat: no-repeat;
+    background-position-x: 85%,95%,83%,39%,44%,90%,45%,72%,58%;
+    background-position-y: 25%,90%,96%,59%,20%,41%,93%,94%,100%;
+}
+#banner_head1{
+    font-size: 124.63px;
+    color: #ffc200;
+    padding-top: 225px;
+    padding-left: 656px;
+    font-family: 'Grand Hotel', cursive;
+}
+#banner_para{
+    font-size: 29.72px;
+    color: #ffffff;
+    padding-top: 53px;
+    padding-left: 663px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.2;
+}
+#banner_btn{
+    font-size: 19.23px;
+    color: #333333;
+    background-color: #ffc200;
+    width: 246px;
+    height: 50px;
+    margin-top: 47px;
+    margin-left: 668px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* best seller section */
+#best_seller{
+    height: 957px;
+}
+#seller_head1{
+    font-size: 75px;
+    color: #333333;
+    padding-top: 140px;
+    font-family: 'Grand Hotel', cursive;
+}
+#seller_para1{
+    font-size: 25.23px;
+    color: #333333;
+    padding-top: 50px;
+    padding-bottom: 78px;
+    font-family: 'Montserrat', sans-serif;
+}
+.seller_head2{
+    font-size: 41.67px;
+    color: #333333;
+    padding-top: 18px;
+    font-family: 'Grand Hotel', cursive;
+}
+.seller_para2{
+    font-size: 16.85px;
+    color: #333333;
+    padding-top: 28px;
+    font-family: 'Montserrat', sans-serif;
+}
+.main_card{
+    width: 241px;
+}
+#seller_col1{
+    display: flex;
+    justify-content: end;
+}
+#seller_col2{
+    display: flex;
+    justify-content: center;
+}
+#main_card1{
+    margin-right: 20px;
+}
+#main_card3{
+    margin-left: 20px;
+}
+/* oriental section */
+#oriental_taste{
+    height: auto;
+    background-image: url(oriental_taste.png);
+    background-repeat: no-repeat;
+    background-size: 100% 160%;
+}
+#oriental_img{
+    padding-top: 90px;
+    padding-left: 135px;
+}
+#statistics{
+    background-image: url(statistics.png);
+    height: 500px;
+}
+#oriental_head{
+    font-size: 100px;
+    color: #ffc200;
+    line-height: 0.7;
+    padding-top: 184px;
+    font-family: 'Grand Hotel', cursive;
+}
+#oriental_para{
+    font-size: 25px;
+    color: #ffffff;
+    padding-top: 53px;
+    line-height: 1.2;
+    font-family: 'Montserrat', sans-serif;
+}
+#oriental_btn{
+    width: 322px;
+    height: 68px;
+    background-color: #ffc200;
+    font-size: 25px;
+    color: #333333;
+    margin-top: 65px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* statistics section */
+#statistics{
+    height: 1100px;
+    background-image: url(statistics.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#statistics1{
+    height: 1100px;
+    background-image: url(statistics1.png),url(statistics2.png),url(statistics3.png),url(statistics4.png),url(statistics5.png),url(statistics6.png),url(bg7.png),url(bg8.png),
+    url(bg9.png);
+    background-repeat: no-repeat;
+    background-position-x: -2%,81%,94%,88%,3%,25%,90%,4%,98%;
+    background-position-y: 67%,11%,56%,69%,26%,12%,31%,79%,86%;
+}
+#statistics_head1{
+    font-size: 100px;
+    color: #ffc200;
+    line-height: 0.7;
+    padding-top: 187px;
+    font-family: 'Grand Hotel', cursive;
+}
+#statistics_para{
+    font-size: 24.68px;
+    color: #ffffff;
+    padding-top: 45px;
+    line-height: 1.2;
+    font-family: 'Montserrat', sans-serif;
+}
+.statistics_circle{
+    height: 237px;
+    width: 237px;
+    border-radius: 50%;
+    border: 6px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#statistics_row{
+    padding-top: 98px;
+}
+.statistics_head2{
+    color: #ffc200;
+    font-size: 50.53px;
+}
+.statistics_para2{
+    font-size: 28.87px;
+    color: #ffffff;
+}
+/* chicken grill section */
+#chicken_grill{
+    height: 645px;
+    background-image: url(chicken-grill.png);
+    background-repeat: no-repeat;
+    background-size: 105% 121%;
+    background-position: 100% 233%;
+}
+#chicken_grill_head1{
+    font-size: 100px;
+    color: #ffc200;
+    margin-bottom: 0;
+    line-height: 0.8;
+    font-family: 'Grand Hotel', cursive;
+}
+#chicken_grill_para{
+    font-size: 29.72px;
+    color: #ffffff;
+    line-height: 1.2;
+    padding-top: 60px;
+    margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+#grill_btn{
+    background-color: #ffc200;
+    font-size: 25px;
+    color: #333333;
+    width: 321px;
+    height: 67px;
+    border: none;
+    margin-top: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
+#grill_main_div{
+    padding-left: 132px;
+}
+/* fields section */
+#fields{
+    height: 795px;
+    background-color: #fff000;
+    background-image: url(fields.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-blend-mode:soft-light;
+}
+#fields_head{
+    font-size: 44.9px;
+    color: #333333;
+    padding-top: 273px;
+    font-family: 'Montserrat', sans-serif;
+}
+#fields_head1{
+    font-size: 74.19px;
+    padding-top: 54px;
+    font-family: 'Grand Hotel', cursive;
+}
+/* email section */
+#email{
+    height: 788px;
+    background-color: #f4f4f4;
+    background-image: url(statistics1.png),url(statistics2.png),url(statistics3.png),url(statistics4.png),url(statistics5.png),url(statistics6.png),url(bg7.png),url(bg8.png),
+    url(../images/bg9.png);
+    background-repeat: no-repeat;
+    background-position-x: 28%,81%,94%,88%,3%,25%,90%,4%,69%;
+    background-position-y: 97%,11%,56%,69%,26%,12%,31%,79%,100%;
+}
+#email_head{
+    font-size: 100px;
+    color: #333333;
+    padding-top: 153px;
+    font-family: 'Grand Hotel', cursive;
+}
+#email_para{
+    font-size: 29.72px;
+    color: #333333;
+    padding-top: 58px;
+    font-family: 'Montserrat', sans-serif;
+}
+#input{
+    font-size: 25px;
+    color: #333333;
+    margin-top: 85px;
+    width: 582px;
+    height: 65px;
+    padding-left: 32px;
+    border: none;
+    outline: none;
+}
+#input_btn{
+    font-size: 25px;
+    color: #333333;
+    width: 227px;
+    height: 67px;
+    background-color: #ffc200;
+    margin-left: -100px;
+    border: none;
+    outline: none;
+}
+/* footer section */
+#footer{
+    height: 797px;
+    background-color: #303030;
+}
+.footer_para1{
+    font-size: 33.33px;
+    color: #ffffff;
+    padding-top: 118px;
+    font-family: 'Oswald', sans-serif;
+}
+#title_footer{
+    padding-left: 56px;
+}
+#footer_para{
+    font-size: 25px;
+    color: #ffffff;
+    padding-left: 58px;
+    line-height: 1.2;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.media{
+    margin-left: 51px;
+}
+.facebook1{
+    padding-top: 37px;
+    padding-right: 10px;
+}
+.footer_para2 a{ 
+    font-size: 25px;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer_para1{
+    padding-bottom: 38px;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer_para2 a:hover{
+    color: #e8631c;
+    text-decoration: none;
+}
+#footer a:hover{
+    color: #e8631c;
+}
+#footer_row{
+    padding-top: 259px;
+}
+

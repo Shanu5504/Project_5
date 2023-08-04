@@ -1,0 +1,732 @@
+@media (max-width: 575.98px) {
+
+    /* navbar section */
+    #nav_logo {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .nav-link {
+        padding-top: 52px;
+    }
+
+    #nav_padding1 {
+        padding-right: 0;
+    }
+
+    #nav_padding2 {
+        padding-right: 0;
+    }
+
+    #nav_padding3 {
+        padding-right: 0;
+    }
+
+    #nav_padding3 {
+        padding-right: 0;
+    }
+
+    #nav_padding4 {
+        padding-right: 0;
+    }
+
+    #nav_padding5 {
+        padding-right: 0;
+    }
+
+    #nav_search_logo {
+        padding-right: 0;
+    }
+
+    .navbar-toggler {
+        background-color: white !important;
+    }
+
+    /* banner section */
+    #banner {
+        background-size: 237% 100%;
+        height: auto;
+    }
+
+    #banner_head1 {
+        padding-top: 225px;
+        padding-left: 0;
+        font-size: 95px;
+    }
+
+    #banner_para {
+        padding-top: 53px;
+        padding-left: 0;
+    }
+
+    #banner_btn {
+        margin-top: 47px;
+        margin-left: 0;
+        margin-bottom: 20px;
+        width: 230px;
+    }
+
+    #banner_col {
+        text-align: center;
+    }
+
+    #banner_container {
+        height: auto;
+        background-position-x: 95%, 95%, 83%, 39%, 44%, 90%, 45%, 72%, 2%;
+        background-position-y: 16%, 90%, 96%, 59%, 20%, 41%, 93%, 94%, 100%;
+    }
+
+    /* best seller section */
+    #best_seller {
+        height: auto;
+    }
+
+    #seller_col1 {
+        justify-content: center;
+    }
+
+    #seller_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #main_card1 {
+        margin-right: 0;
+    }
+
+    #main_card3 {
+        margin-left: 0;
+    }
+
+    /* oriental section */
+    #oriental_img {
+        padding-left: 0;
+    }
+
+    #oriental_btn {
+        width: 227px;
+        margin-bottom: 40px;
+    }
+
+    #oriental_head {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    /* statistics section */
+    #statistics {
+        height: auto;
+    }
+
+    #statistics1 {
+        height: auto;
+    }
+
+    #statistics_head1 {
+        font-size: 54px;
+    }
+
+    #statistics_col1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .statistics_circle {
+        margin-bottom: 20px;
+    }
+
+    /* chicken grill section */
+    #chicken_grill {
+        height: auto;
+    }
+
+    #chicken_grill_head1 {
+        font-size: 60px;
+        line-height: 1;
+        margin-top: 30px;
+    }
+
+    #grill_main_div {
+        padding-left: 0;
+    }
+
+    #grill_btn {
+        width: 218px;
+        margin-bottom: 20px;
+    }
+
+    #grill_img {
+        padding-bottom: 30px;
+    }
+
+    /* fields section */
+    #fields {
+        height: auto;
+    }
+
+    #fields_head1 {
+        margin-bottom: 0;
+    }
+
+    #fields_head {
+        font-size: 42px;
+    }
+
+    /* email section */
+    #email {
+        height: auto;
+    }
+
+    #email_head {
+        font-size: 50px;
+    }
+
+    #input {
+        width: 235px;
+        height: 39px;
+        font-size: 19px;
+    }
+
+    #input_btn {
+        font-size: 18px;
+        width: 110px;
+        height: 41px;
+    }
+
+    form {
+        padding-bottom: 50px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_para {
+        padding-left: 0;
+    }
+    #footer_row {
+        padding-top: 59px;
+    }
+    #title_footer {
+        padding-left: 0;
+    }
+    .media{
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* navbar section */
+    #nav_logo {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .nav-link {
+        padding-top: 52px;
+    }
+
+    #nav_padding1 {
+        padding-right: 0;
+    }
+
+    #nav_padding2 {
+        padding-right: 0;
+    }
+
+    #nav_padding3 {
+        padding-right: 0;
+    }
+
+    #nav_padding3 {
+        padding-right: 0;
+    }
+
+    #nav_padding4 {
+        padding-right: 0;
+    }
+
+    #nav_padding5 {
+        padding-right: 0;
+    }
+
+    #nav_search_logo {
+        padding-right: 0;
+    }
+
+    .navbar-toggler {
+        background-color: white !important;
+    }
+
+    /* banner section */
+    #banner {
+        background-size: 237% 100%;
+        height: auto;
+    }
+
+    #banner_head1 {
+        padding-top: 225px;
+        padding-left: 0;
+        font-size: 95px;
+    }
+
+    #banner_para {
+        padding-top: 53px;
+        padding-left: 0;
+    }
+
+    #banner_btn {
+        margin-top: 47px;
+        margin-left: 0;
+        margin-bottom: 20px;
+        width: 230px;
+    }
+
+    #banner_col {
+        text-align: center;
+    }
+
+    #banner_container {
+        height: auto;
+        background-position-x: 95%, 95%, 83%, 39%, 44%, 90%, 45%, 72%, 2%;
+        background-position-y: 16%, 90%, 96%, 59%, 20%, 41%, 93%, 94%, 100%;
+    }
+
+    /* best seller section */
+    #best_seller {
+        height: auto;
+    }
+
+    #seller_col1 {
+        justify-content: center;
+    }
+
+    #seller_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #main_card1 {
+        margin-right: 0;
+    }
+
+    #main_card3 {
+        margin-left: 0;
+    }
+
+    /* oriental section */
+    #oriental_img {
+        padding-left: 0;
+    }
+
+    #oriental_btn {
+        width: 227px;
+    }
+
+    #oriental_head {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    /* statistics section */
+    #statistics {
+        height: auto;
+    }
+
+    #statistics1 {
+        height: auto;
+    }
+
+    #statistics_head1 {
+        font-size: 54px;
+    }
+
+    #statistics_col1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .statistics_circle {
+        margin-bottom: 20px;
+    }
+
+    /* chicken grill section */
+    #chicken_grill {
+        height: auto;
+    }
+
+    #chicken_grill_head1 {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    #grill_main_div {
+        padding-left: 0;
+    }
+
+    #grill_btn {
+        width: 218px;
+        margin-bottom: 20px;
+    }
+
+    #grill_img {
+        padding-bottom: 30px;
+    }
+
+    /* fields section */
+    #fields {
+        height: auto;
+    }
+
+    #fields_head1 {
+        margin-bottom: 0;
+    }
+
+    /* email section */
+    #email {
+        height: auto;
+    }
+
+    #email_head {
+        font-size: 50px;
+    }
+
+    #input {
+        width: 374px;
+    }
+
+    form {
+        padding-bottom: 50px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_para {
+        padding-left: 0;
+    }
+    #footer_row {
+        padding-top: 107px;
+    }
+    #title_footer {
+        padding-left: 0;
+    }
+    .media{
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #nav_logo {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .nav-link {
+        padding-top: 52px;
+    }
+
+    #nav_padding1 {
+        padding-right: 0;
+    }
+
+    #nav_padding2 {
+        padding-right: 0;
+    }
+
+    #nav_padding3 {
+        padding-right: 0;
+    }
+
+    #nav_padding3 {
+        padding-right: 0;
+    }
+
+    #nav_padding4 {
+        padding-right: 0;
+    }
+
+    #nav_padding5 {
+        padding-right: 0;
+    }
+
+    #nav_search_logo {
+        padding-right: 0;
+    }
+
+    .navbar-toggler {
+        background-color: white !important;
+    }
+
+    /* banner section */
+    #banner {
+        background-size: 237% 100%;
+        height: auto;
+    }
+
+    #banner_head1 {
+        padding-top: 225px;
+        padding-left: 0;
+        font-size: 95px;
+    }
+
+    #banner_para {
+        padding-top: 53px;
+        padding-left: 0;
+    }
+
+    #banner_btn {
+        margin-top: 47px;
+        margin-left: 0;
+        margin-bottom: 20px;
+        width: 230px;
+    }
+
+    #banner_col {
+        text-align: center;
+    }
+
+    #banner_container {
+        height: auto;
+        background-position-x: 95%, 95%, 83%, 39%, 44%, 90%, 45%, 72%, 2%;
+        background-position-y: 16%, 90%, 96%, 59%, 20%, 41%, 93%, 94%, 100%;
+    }
+
+    /* best seller section */
+    #best_seller {
+        height: auto;
+    }
+
+    #seller_col1 {
+        justify-content: center;
+    }
+
+    #seller_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #main_card1 {
+        margin-right: 0;
+    }
+
+    #main_card3 {
+        margin-left: 0;
+    }
+
+    /* oriental section */
+    #oriental_img {
+        padding-left: 0;
+    }
+
+    #oriental_btn {
+        width: 227px;
+        margin-bottom: 30px;
+    }
+
+    #oriental_head {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    /* statistics section */
+    #statistics {
+        height: auto;
+    }
+
+    #statistics1 {
+        height: auto;
+    }
+
+    #statistics_head1 {
+        font-size: 54px;
+    }
+
+    #statistics_col1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col2 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col3 {
+        display: flex;
+        justify-content: center;
+    }
+
+    #statistics_col4 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .statistics_circle {
+        margin-bottom: 20px;
+    }
+
+    /* chicken grill section */
+    #chicken_grill {
+        height: auto;
+    }
+
+    #chicken_grill_head1 {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    #grill_main_div {
+        padding-left: 0;
+    }
+
+    #grill_btn {
+        width: 218px;
+        margin-bottom: 20px;
+    }
+
+    #grill_img {
+        padding-bottom: 30px;
+    }
+
+    /* fields section */
+    #fields {
+        height: auto;
+    }
+
+    /* email section */
+    #email {
+        height: auto;
+    }
+
+    #email_head {
+        font-size: 50px;
+    }
+
+    #input {
+        width: 159px;
+        height: 39px;
+        margin-bottom: 20px;
+    }
+
+    #input_btn {
+        margin-left: 0;
+        width: 135px;
+        height: 40px;
+    }
+
+    /* footer section */
+    #footer {
+        height: auto;
+    }
+
+    #footer_para {
+        padding-left: 0;
+    }
+    #footer_row {
+        padding-top: 107px;
+    }
+    #title_footer {
+        padding-left: 0;
+    }
+    .media{
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #nav_logo {
+        padding-left: 20px;
+    }
+
+    #nav_padding1 {
+        padding-right: 40px;
+    }
+
+    #nav_padding2 {
+        padding-right: 40px;
+    }
+
+    #nav_padding3 {
+        padding-right: 40px;
+    }
+
+    #nav_padding3 {
+        padding-right: 40px;
+    }
+
+    #nav_padding4 {
+        padding-right: 40px;
+    }
+
+    #nav_padding5 {
+        padding-top: 52px;
+        padding-right: 79px;
+    }
+
+    #banner_head1 {
+        padding-left: 576px;
+    }
+
+    #banner_para {
+        padding-left: 576px;
+    }
+
+    #banner_btn {
+        margin-left: 576px;
+    }
+
+    #banner {
+        height: auto;
+    }
+
+    #banner_container {
+        height: auto;
+    }
+
+    #grill_img{
+        width: 335px;
+        height: 335px;
+    }
+
+    #footer {
+        height: auto;
+    }
+    #footer_row {
+        padding-top: 89px;
+    }
+}
